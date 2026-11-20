@@ -89,5 +89,5 @@ if os.path.exists("alerts_log.csv"):
 else:
     st.info("No alerts yet.")
  
-time.sleep(1)
+time.sleep(0.5)
 st.rerun()

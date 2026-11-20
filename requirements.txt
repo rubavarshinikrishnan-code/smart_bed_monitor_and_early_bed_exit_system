@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+opencv-python-headless
+pandas
+numpy
+requests
+mediapipe
+scikit-learn
+supabase
